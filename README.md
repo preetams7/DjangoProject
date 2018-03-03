@@ -1,2 +1,3 @@
 # DjangoProject
-Django Practice..New bee
+Django Practice.. 
+Working on creating music repository website
